@@ -14,6 +14,14 @@ motion and geometry rather than marketing copy to carry the story.
 Figma:
 https://www.figma.com/design/VvOBhx0NFvfiMOjdmarVLE/Xai-%E2%80%94-Intelligence-Workspace?node-id=0-1&p=f&t=9NvMiBfQxgxqOaTk-0
 
+## Product Documentation
+
+https://docs.google.com/document/d/1XeDOkK7pEfz7-gX-ItX2NCiXIMj8ozK10uECGPFDIi0/edit?tab=t.0#heading=h.9jt82jp0ikf
+
+## A short explanation of key animation and interaction decisions
+
+https://drive.google.com/drive/folders/1H8AH5GckuYvG1UppAPEyR7UazdtQ2X_C
+
 ## Tech stack
 
 - **Next.js 14** (App Router, TypeScript)
