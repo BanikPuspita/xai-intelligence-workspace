@@ -12,7 +12,7 @@ motion and geometry rather than marketing copy to carry the story.
 ## Design
 
 Figma:
-https://your-figma-link
+https://www.figma.com/design/VvOBhx0NFvfiMOjdmarVLE/Xai-%E2%80%94-Intelligence-Workspace?node-id=0-1&p=f&t=9NvMiBfQxgxqOaTk-0
 
 ## Tech stack
 
