@@ -5,6 +5,15 @@ challenge. It walks the visitor through the product's core narrative — raw
 data → structured intelligence → actionable insight → automations — using
 motion and geometry rather than marketing copy to carry the story.
 
+## Live Demo
+
+🔗 https://xai-intelligence-workspace-nu.vercel.app
+
+## Design
+
+Figma:
+https://your-figma-link
+
 ## Tech stack
 
 - **Next.js 14** (App Router, TypeScript)
@@ -54,6 +63,14 @@ aimed at decision-makers (in the spirit of Datadog/Linear/Palantir-style
 tooling), not a default. Two accent colors are used for two different jobs —
 teal for structure, amber for "this is the insight" — rather than one mood
 color doing everything.
+
+
+## Performance
+
+- Built with Next.js App Router
+- Optimized using React Three Fiber
+- Static mock data (no backend)
+- Smooth GPU-accelerated animations
 
 ## Animation & interaction decisions
 
